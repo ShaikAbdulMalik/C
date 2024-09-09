@@ -4,7 +4,7 @@ int main(){
     //it uses the keyword 'const' to create a keyword that cannot be changed so easily 
     
     const float PI = 3.14159;
-    //PI = 3.14154;
+    //PI = 3.14154; //COMMENT THIS ONE OUT TO FIND OUT
     printf("%f",PI);
 
     return 0;
