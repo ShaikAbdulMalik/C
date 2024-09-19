@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("Shaik Abdul Malik is a handsome boi");
+    printf("Shaik Abdul Malik");
 }
